@@ -1,3 +1,3 @@
 # Test
 
-Dette er bare en tekst
+Dette er bare en tekst!
